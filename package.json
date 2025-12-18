@@ -1,0 +1,22 @@
+{
+  "name": "pw-sandbox",
+  "version": "1.0.0",
+  "description": "## CMD commands > $ npx playwright --help   - Up to date list of commands and arguments available on the CLI",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FremLars/pw-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FremLars/pw-sandbox/issues"
+  },
+  "homepage": "https://github.com/FremLars/pw-sandbox#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1"
+  }
+}
